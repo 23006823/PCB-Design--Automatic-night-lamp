@@ -1,4 +1,3 @@
-![image](https://github.com/23006823/PCB-Design--Automatic-night-lamp/assets/138971409/7bf95b06-49c9-467e-9778-e9e768f3d39b)# PCB-Design--Automatic-night-lamp
 
 # Aim
 To design a PCB circuit for automatic night lamp using eagle sofware.
